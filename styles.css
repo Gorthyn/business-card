@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.avatar {
+    width: 100px;
+}
+
+.headshot {
+    width: 175px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #172815;
+    color: #EFD6AC;
+    border-bottom: 8px solid #664C43;
+}
+
+.border-green {
+    border: 4px double #2E5339;
+}
